@@ -1,0 +1,28 @@
+My database will consist of 3 different tables: Student, Teacher, and Class.
+
+
+Student table:
+This table will have 6 different columns
+ID: which will be a integer
+Email: which will be a string
+Phone: which will be a string
+Year: which will be a string
+Status: which will be a string
+
+Teacher table:
+This table will have 4 different columns
+ID: which will be a integer
+Name: which will be a string
+Email: which will be a string
+Phone: which will be a string
+
+
+Class table:
+This table will have 4 different columns
+ID: which will be an integer
+Name: which will be a string
+Department: which will be a string
+TeacherID: which will be an integer
+
+
+The data in the class table will be related to the teacher table as each row in the class table will have a column called "TeacherID" which will directly related to the "ID" column on the Teacher table

@@ -1,0 +1,7 @@
+School table:
+This table will have different columns
+ID: which will be an integer
+Name: which will be a string
+City: which will be a string
+
+The ID from the school table could possibly be used to identify students, classes, and teachers based on what school they are at, by having an extra "SchoolID" column in each of those tables
