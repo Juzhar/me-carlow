@@ -1,0 +1,1 @@
+SELECT * FROM pokemon WHERE id > 10 AND id < 36

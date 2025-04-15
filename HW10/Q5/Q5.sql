@@ -1,0 +1,1 @@
+DELETE FROM pokemon WHERE id > 10 or weight < 30
